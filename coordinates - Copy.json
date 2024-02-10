@@ -1,6 +1,4 @@
 {"type":"FeatureCollection",
-"properties": {"numberMatched":694, "numberReturned":694},            
-"bbox": [-3.536821854, 0.076709176, 26.793223506, 50.376256966],
 "features": [
 {"type":"Feature",
 "geometry": {"type":"Polygon",
