@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "G_Bub_03"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -30,7 +32,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 0
     },
     {
       "type": "Feature",
@@ -72,7 +75,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "G_Bub_02"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -115,7 +120,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 2
     }
   ]
 }
